@@ -1,0 +1,6 @@
+.git
+.github
+*.zip
+tmp/
+Dockerfile
+README.md
